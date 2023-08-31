@@ -31,11 +31,14 @@ produces the below browsable urls:
 1. www.domain.it
 2. www.domain.it/folder1/
 3. www.domain.it/folder2/
-   Contents:
-4. <h1>Hi</h1><div>I'm in the homepage</div>
-5. <h1>Hi</h1><div>I'm in folder1</div>
-6. <h1>Hi</h1><div>I'm in folder2</div>
-   Conditions:
+
+## Contents:
+
+`<h1>Hi</h1><div>I'm in the homepage</div>`
+`<h1>Hi</h1><div>I'm in folder1</div>`
+`<h1>Hi</h1><div>I'm in folder2</div>`
+
+## Conditions:
 
 - index.php as the only public file
 - .htaccess and route.php to manage the routes
