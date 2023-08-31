@@ -34,9 +34,11 @@ produces the below browsable urls:
 
 ## Contents:
 
-`<h1>Hi</h1><div>I'm in the homepage</div>`
-`<h1>Hi</h1><div>I'm in folder1</div>`
-`<h1>Hi</h1><div>I'm in folder2</div>`
+```
+<h1>Hi</h1><div>I'm in the homepage</div>
+<h1>Hi</h1><div>I'm in folder1</div>
+<h1>Hi</h1><div>I'm in folder2</div>
+```
 
 ## Conditions:
 
